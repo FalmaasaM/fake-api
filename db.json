@@ -1,14 +1,109 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 0,
+      "logo": "https://content.sportslogos.net/logos/6/237/full/uig7aiht8jnpl1szbi57zzlsh.png",
+      "nama": "LA Lakers",
+      "pelatih": "Frank Vogel",
+      "pemilik": "Buss Family Trust",
+      "stadion": "Staples Center",
+      "markas": "Los Angels",
+      "deskripsi": "Los Angeles Lakers adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Los Angeles. Lakers berkompetisi di National Basketball Association, sebagai anggota Wilayah Barat, Divisi Pasifik"
+    },
+    {
+      "id": 1,
+      "logo": "https://content.sportslogos.net/logos/6/213/full/boston_celtics_logo_primary_19977628.png",
+      "nama": "Boston Celtics",
+      "pelatih": "Ime Udoka",
+      "pemilik": "Boston Basketball Partners",
+      "stadion": "TD Garden",
+      "markas": "Boston",
+      "deskripsi": "Boston Celtics adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Boston, Massachusetts. Celtics berkompetisi di National Basketball Association sebagai anggota dari Wilayah Timur, Divisi Atlantik."
+    },
+    {
+      "id": 2,
+      "logo": "https://content.sportslogos.net/logos/6/235/full/3152_golden_state_warriors-primary-2020.png",
+      "nama": "Golden State Warriors",
+      "pelatih": "Steve Kerr",
+      "pemilik": "Joseph S. Lacob",
+      "stadion": "Chase Center",
+      "markas": "San Francisco",
+      "deskripsi": "Golden State Warriors adalah sebuah tim bola basket profesional Amerika Serikat yang bermarkas di San Francisco, California. Warriors berkompetisi di National Basketball Association, sebagai anggota Wilayah Barat, Divisi Pasifik."
+    },
+    {
+      "id": 3,
+      "logo": "https://content.sportslogos.net/logos/6/214/full/u6bxz6n2tlrjgwnyewlke2i54.png",
+      "nama": "Miami Heat",
+      "pelatih": "Erik Spoelstra",
+      "pemilik": "Micky Arison",
+      "stadion": "FTX Arena",
+      "markas": "Miami",
+      "deskripsi": "Miami Heat adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Miami, Florida. Heat berkompetisi di National Basketball Association sebagai anggota dari Wilayah Timur, Divisi Tenggara. Heat memainkan pertandingan kandang mereka di American Airlines Arena, dan telah memenangkan tiga gelar NBA."
+    },
+    {
+      "id": 4,
+      "logo": "https://content.sportslogos.net/logos/6/221/full/chicago_bulls_logo_primary_19672598.png",
+      "nama": "Chicago Bulls",
+      "pelatih": "Billy Donovan",
+      "pemilik": "Dick Klein",
+      "stadion": "United Center",
+      "markas": "Chicago",
+      "deskripsi": "Chicago Bulls adalah tim bola basket Amerika Serikat yang tergabung dalam National Basketball Association. Tim ini berbasis di Chicago, Illinois. Nama Chicago Bulls diberikan oleh pemilik klub, Dick Klein, berdasarkan nama sebuah industri peternakan yang ada di kota tersebut."
+    },
+    {
+      "id": 5,
+      "logo": "https://content.sportslogos.net/logos/6/227/full/7024_toronto_raptors-primary-2021.png",
+      "nama": "Toronto Raptors",
+      "pelatih": "Nick Nurse",
+      "pemilik": "Maple Leaf Sports & Entertainment",
+      "stadion": "Air Canada Centre",
+      "markas": "Toronto",
+      "deskripsi": "Toronto Raptors adalah tim bola basket Kanada yang tergabung dalam National Basketball Association. Tim ini berbasis di Air Canada Centre, Toronto, Ontario. Tim ini bergabung dalam NBA sejak tahun 1994 ketika dimiki oleh seorang pengusaha, John I. Bitove."
+    },
+    {
+      "id": 6,
+      "nama": "LeBron Raymone James",
+      "posisi": "Small Forward, Shooting Guard",
+      "team": "LA Lakers",
+      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612747/2021/260x190/2544.png"
+    },
+    {
+      "id": 7,
+      "nama": "Kevin Wayne Durant",
+      "posisi": "Power Forward, Small Forward",
+      "team": "Brooklyn Nets",
+      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612751/2021/260x190/201142.png"
+    },
+    {
+      "id": 8,
+      "nama": "Devin Armani Booker",
+      "posisi": "Small Forward, Shooting Guard",
+      "team": "Phoenix Suns",
+      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612756/2021/260x190/1626164.png"
+    },
+    {
+      "id": 9,
+      "name": "Wardell Stephen Curry II",
+      "posisi": "Point Guard, Shooting Guard",
+      "team": "Golden State Warriors",
+      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612744/2021/260x190/201939.png"
+    },
+    {
+      "id": 10,
+      "name": "Zachary Thomas LaVine",
+      "posisi": "Small Forward, Shooting Guard",
+      "team": "Chicago Bulls",
+      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612741/2021/260x190/203897.png"
+    },
+    {
+      "id": 11,
+      "nama": "Russell Westbrook III",
+      "posisi": "Point Guard",
+      "team": "LA Lakers",
+      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612747/2021/260x190/201566.png"
+    }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Falmaas"
   }
 }
