@@ -111,6 +111,13 @@
       "posisi": "Point Guard",
       "team": "LA Lakers",
       "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612747/2021/260x190/201566.png"
+    },
+     {
+      "id": 12,
+      "nama": "Russell Westbrook III",
+      "posisi": "Point Guard",
+      "team": "LA Lakers",
+      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612747/2021/260x190/201566.png"
     }
   ],
   "profile": {
