@@ -8,17 +8,17 @@
       "pemilik": "Buss Family Trust",
       "stadion": "Staples Center",
       "markas": "Los Angels",
-      "deskripsi": "Los Angeles Lakers adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Los Angeles. Lakers berkompetisi di National Basketball Association (NBA), sebagai anggota Wilayah Barat, Divisi Pasifik. Lakers memainkan pertandingan kandang mereka di Staples Center, sebuah arena yang juga digunakan oleh klub NBA lain yaitu Los Angeles Clippers, Los Angeles Sparks dari Women's National Basketball Association, dan Los Angeles Kings dari National Hockey League.[9] Lakers adalah salah satu tim tersukses dalam sejarah NBA, dan telah memenangkan 17 gelar liga—jumlah terbanyak bersama dengan Boston Celtics."
+      "deskripsi": "Los Angeles Lakers adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Los Angeles. Lakers berkompetisi di National Basketball Association (NBA), sebagai anggota Wilayah Barat, Divisi Pasifik. Lakers memainkan pertandingan kandang mereka di Staples Center, sebuah arena yang juga digunakan oleh klub NBA lain yaitu Los Angeles Clippers, Los Angeles Sparks dari Women's National Basketball Association, dan Los Angeles Kings dari National Hockey League."
     },
     {
       "id": 1,
-      "logo": "https://content.sportslogos.net/logos/6/213/full/boston_celtics_logo_primary_19977628.png",
-      "nama": "Boston Celtics",
-      "pelatih": "Ime Udoka",
-      "pemilik": "Boston Basketball Partners",
-      "stadion": "TD Garden",
-      "markas": "Boston",
-      "deskripsi": "Boston Celtics adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Boston, Massachusetts. Celtics berkompetisi di National Basketball Association sebagai anggota dari Wilayah Timur, Divisi Atlantik."
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1548px-Brooklyn_Nets_newlogo.svg.png",
+      "nama": "Brooklyn Nets",
+      "pelatih": "Jacque Vaughn",
+      "pemilik": "Joseph Tsai",
+      "stadion": "Barclays Center",
+      "markas": "New York",
+      "deskripsi": "Brooklyn Nets adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di borough Kota New York, Brooklyn. Nets berkompetisi dalam National Basketball Association (NBA) sebagai anggota Divisi Atlantik, Wilayah Timur. Nets memainkan pertandingan kandang mereka di Barclays Center. Mereka adalah salah satu dari dua tim NBA yang bermarkas di Kota New York; yang satunya adalah New York Knicks. Tim ini didirikan pada tahun 1967 sebagai tim carter dari liga saingan NBA, American Basketball Association (ABA)."
     },
     {
       "id": 2,
