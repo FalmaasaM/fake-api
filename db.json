@@ -24,21 +24,21 @@
       "id": 2,
       "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/d/dc/Phoenix_Suns_logo.svg/800px-Phoenix_Suns_logo.svg.png",
       "nama": "Phoenix Suns",
-      "pelatih": "Steve Kerr",
-      "pemilik": "Monty Williams",
+      "pelatih": "Monty Williams",
+      "pemilik": "Robert Sarver",
       "stadion": "Footprint Center",
       "markas": "Arizona",
       "deskripsi": "Phoenix Suns adalah tim bola basket profesional Amerika yang berbasis di Phoenix, Arizona. Mereka bersaing di National Basketball Association (NBA), sebagai anggota Divisi Pasifik Wilayah Barat liga. The Suns adalah satu-satunya tim di divisi mereka yang tidak berbasis di California, dan memainkan pertandingan kandang mereka di Footprint Center. The Suns adalah salah satu dari empat tim olahraga liga utama yang berbasis di wilayah Phoenix, tetapi merupakan satu-satunya yang menyebut diri mereka mewakili kota."
     },
     {
       "id": 3,
-      "logo": "https://content.sportslogos.net/logos/6/214/full/u6bxz6n2tlrjgwnyewlke2i54.png",
-      "nama": "Miami Heat",
-      "pelatih": "Erik Spoelstra",
-      "pemilik": "Micky Arison",
-      "stadion": "FTX Arena",
-      "markas": "Miami",
-      "deskripsi": "Miami Heat adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Miami, Florida. Heat berkompetisi di National Basketball Association sebagai anggota dari Wilayah Timur, Divisi Tenggara. Heat memainkan pertandingan kandang mereka di American Airlines Arena, dan telah memenangkan tiga gelar NBA."
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/800px-Atlanta_Hawks_logo.svg.png",
+      "nama": "Atlanta Hawks",
+      "pelatih": "Nate McMillan",
+      "pemilik": "Antony Ressler",
+      "stadion": "State Farm Arena",
+      "markas": "Georgia",
+      "deskripsi": "Atlanta Hawks adalah sebuah tim basket profesional Amerika Serikat yang bermarkas di Atlanta, Georgia. Hawks berkompetisi di National Basketball Association (NBA) sebagai anggota Wilayah Timur Divisi Tenggara. Hawks memainkan pertandingan kandang mereka di State Farm Arena."
     },
     {
       "id": 4,
