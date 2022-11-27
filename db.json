@@ -72,52 +72,52 @@
     },
     {
       "id": 7,
-      "nama": "Giannis Antetokounmpo",
-      "posisi": "Power Forward, Small Forward, Point Guard, and Shooting Guard",
-      "team": "Milwaukee Bucks",
-      "foto": "https://mayfieldsportsmarketing.com/wp-content/uploads/2016/04/Giannis-Profile.png"
+      "nama": "Stephen Curry",
+      "posisi": "Point Guard",
+      "team": "Golden State Warriors",
+      "foto": "https://www.pngmart.com/files/22/Stephen-Curry-PNG-Clipart.png"
     },
     {
       "id": 8,
       "nama": "Kevin Wayne Durant",
-      "posisi": "Power Forward, Small Forward",
+      "posisi": "Small Forward, Power Forward, dan Shooting Guard",
       "team": "Brooklyn Nets",
       "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612751/2021/260x190/201142.png"
     },
     {
       "id": 9,
-      "nama": "Devin Armani Booker",
-      "posisi": "Small Forward, Shooting Guard",
-      "team": "Phoenix Suns",
+      "nama": "LeBron James",
+      "posisi": "Small Forward, Power Forward, Point Guard, dan Shooting Guard",
+      "team": "Los Angeles Lakers",
       "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612756/2021/260x190/1626164.png"
     },
     {
       "id": 10,
-      "name": "Wardell Stephen Curry II",
-      "posisi": "Point Guard, Shooting Guard",
-      "team": "Golden State Warriors",
-      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612744/2021/260x190/201939.png"
+      "nama": "Giannis Antetokounmpo",
+      "posisi": "Power Forward, Small Forward, Point Guard, dan Shooting Guard",
+      "team": "Milwaukee Bucks",
+      "foto": "https://mayfieldsportsmarketing.com/wp-content/uploads/2016/04/Giannis-Profile.png"
     },
     {
       "id": 11,
-      "name": "Zachary Thomas LaVine",
-      "posisi": "Small Forward, Shooting Guard",
-      "team": "Chicago Bulls",
-      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612741/2021/260x190/203897.png"
+      "name": "Nikola Jokic",
+      "posisi": "Center",
+      "team": "Denver Nuggets",
+      "foto": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png"
     },
     {
       "id": 12,
-      "nama": "Russell Westbrook III",
-      "posisi": "Point Guard",
-      "team": "LA Lakers",
-      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612747/2021/260x190/201566.png"
+      "nama": "Joel Embiid",
+      "posisi": "Center",
+      "team": "Philadelphia 76ers",
+      "foto": "https://www.pngarts.com/files/5/Joel-Embiid-PNG-Image.png"
     },
      {
       "id": 13,
-      "nama": "Russell Westbrook III",
-      "posisi": "Point Guard",
-      "team": "LA Lakers",
-      "foto": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/1610612747/2021/260x190/201566.png"
+      "nama": "Kawhi Leonard",
+      "posisi": "Small Forward",
+      "team": "Los Angeles Clippers",
+      "foto": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
     }
   ],
   "profile": {
