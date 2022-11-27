@@ -50,7 +50,16 @@
       "markas": "New York",
       "deskripsi": "New York Knicks adalah tim bola basket Amerika Serikat yang tergabung dalam National Basketball Association. Tim ini berbasis di New York City, New York. Klub New York Knicks berkompetisi di liga NBA di Divisi Atlantik, Wilayah Timur. Bermarkas di Madison Square Garden, Manhattan, Knicks adalah satu dari dua klub yang berlokasi New York City, bersama dengan Brooklyn Nets. Tim ini didirikan oleh Ned Irish pada tahun 1946 dan bersama klub Boston Celtics menjadi salah satu dari dua klub yang berlokasi di kota yang sama sejak pertama bergabung bersama NBA."
     },
-    
+    {
+      "id": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/300px-Indiana_Pacers.svg.png",
+      "nama": "Indiana Pacers",
+      "pelatih": "Rick Carlisle",
+      "pemilik": "Herbert Simon",
+      "stadion": "Gainbridge Fieldhouse",
+      "markas": "Indiana",
+      "deskripsi": "Indiana Pacers adalah tim bola basket Amerika Serikat yang tergabung dalam National Basketball Association. Tim ini berbasis di Conseco Fieldhouse, Indianapolis, Indiana. Nama Pacers diambil dari sejarah Indiana tentang seekor kuda balap yang disebut Pacers. Selain itu, Pacers juga terinspirasi dari mobil keselamatan (pace car) yang digunakan dalam balapan Indianapolis 500."
+    },
     {
       "id": 6,
       "nama": "LeBron Raymone James",
